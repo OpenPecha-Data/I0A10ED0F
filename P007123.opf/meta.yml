@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W22705
   title: བཀའ་གདམས་གླེགས་བམ།
-  volume: ''
+  volume:
+    e57e739172f848eeae12d0a1e34df7de:
+      image_group_id: I00KG03587
+      title: Volume 1 of bka' gdams glegs bam
+      volume_number: 1
+      total_pages: 313
   author: ''
+ebook_metadata:
+  title: བཀའ་གདམས་གླེགས་བམ།
+  author: ''
+  sku: P007123
+  cover: cover.jpg
+  layers:
+  - pagination
