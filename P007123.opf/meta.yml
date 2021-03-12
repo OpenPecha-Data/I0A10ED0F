@@ -5,11 +5,12 @@ source_metadata:
   title: བཀའ་གདམས་གླེགས་བམ།
   author: ''
   volumes:
-    430e4dc8836e4159b1de343735114a9a:
+    e57e739172f848eeae12d0a1e34df7de:
       image_group_id: I00KG03587
-      title: ''
+      title: Volume 1 of bka' gdams glegs bam
       volume_number: 1
       total_pages: 313
+      base_file: v001.txt
 ebook_metadata:
   title: བཀའ་གདམས་གླེགས་བམ།
   author: ''
